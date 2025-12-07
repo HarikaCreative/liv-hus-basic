@@ -105,7 +105,7 @@ export default function Home() {
                   </div>
                 </div>
                 <div className="flex items-start gap-3">
-                  <Home className="w-5 h-5 text-ocean-500 mt-1 flex-shrink-0" />
+                  <HomeIcon className="w-5 h-5 text-ocean-500 mt-1 flex-shrink-0" />
                   <div>
                     <p className="font-medium mb-1">120 m²</p>
                     <p className="text-sm text-gray-500">Living space</p>

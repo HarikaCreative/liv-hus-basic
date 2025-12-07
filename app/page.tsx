@@ -1,6 +1,6 @@
 'use client'
 
-import { Mail, Phone, MapPin, Users, Home, Bath, Wifi, Car } from 'lucide-react'
+import { Mail, Phone, MapPin, Users, Home as HomeIcon, Bath, Wifi, Car } from 'lucide-react'
 
 export default function Home() {
   return (
